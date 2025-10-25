@@ -85,12 +85,7 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.site-logo {
-}
-.site-logo-image {
-}
-.site-nav {
-}
+
 .site-nav-list {
   display: flex;
   align-items: center;
@@ -108,23 +103,20 @@ body {
   gap: 10px;
   color: #2c2c2c;
 }
-.arrow-icon {
-}
+
 /*HEADER END*/
 
 /*MAIN START*/
 
 /*HERO START*/
-.hero {
-}
+
 .hero-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-transform: uppercase;
 }
-.hero-subtitle {
-}
+
 .hero-title {
   font-weight: 600;
   font-size: 148px;
@@ -151,8 +143,7 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.categories-content {
-}
+
 .categories-content-title {
   font-weight: 500;
   font-size: 24px;
@@ -181,8 +172,7 @@ body {
   color: #000000;
   text-transform: uppercase;
 }
-.arrow-icon {
-}
+
 /*CATEGORIES END*/
 
 /* BLOG 2 START */
@@ -207,8 +197,7 @@ body {
   display: flex;
   gap: 24px;
 }
-.blog2elements-group1 {
-}
+
 .group1-content1 {
   border: 1px solid #ededed;
   background: linear-gradient(#ffffff, #ededed, #ffffff);
@@ -259,8 +248,7 @@ body {
 /* BLOG 2 END */
 
 /* PRICE START */
-.prices {
-}
+
 .prices-container {
   width: 100%;
   max-width: 1404;
@@ -290,8 +278,7 @@ body {
   margin-bottom: 30px;
   padding: 48px;
 }
-.card-btn {
-}
+
 .btn {
   font-size: 20px;
   text-transform: uppercase;
@@ -306,10 +293,7 @@ body {
   display: flex;
   align-items: center;
 }
-.card-img {
-}
-.card-text {
-}
+
 .card-title {
   font-weight: 500;
   font-size: 32px;
@@ -326,16 +310,12 @@ body {
 /*MAIN END*/
 
 /* FOOTER START */
-.container {
-}
+
 .footer-container {
   display: flex;
   justify-content: space-between;
 }
-.short-desc {
-}
-.footer-logo {
-}
+
 .logo-img {
   color: #2c2c2c;
   margin-bottom: 20px;
@@ -357,34 +337,21 @@ body {
 .footer-img {
   gap: 12px;
 }
-.img1 {
-}
-.logo-image {
-}
-.img2 {
-}
-.img3 {
-}
-.wrap {
-}
+
 .footer-link-list {
   display: flex;
   justify-content: space-between;
   gap: 103px;
   margin-bottom: 52px;
 }
-.list1 {
-}
-.link-list-item {
-}
+
 .list-item {
   font-weight: 500;
   text-transform: uppercase;
   color: #7a7a7a;
   margin-bottom: 32px;
 }
-.list2 {
-}
+
 .footer-btn {
   border: 1px solid #2c2c2c;
   border-radius: 38px;
@@ -392,8 +359,5 @@ body {
   display: flex;
   gap: 10px;
 }
-.btn {
-}
-.btn-img {
-}
+
 /* FOOTER END */
